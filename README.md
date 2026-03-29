@@ -5,25 +5,25 @@ Task Overview - As a Student Digital Ambassador, I have created a one-page visua
 Folder Contents Infographic: A high-quality image or PDF of the digital literacy resource.
 
 
-Tool Used: Canva / Prezi / Miro (as selected).
+Tool Used: Canva
 
 
-Topics Covered: [Insert Topic 1,  What Digital Literacy Is]
-                [Insert Topic 2,  Useful Digital Tools for Students]
-                [Insert Topic 3,  Safe Internet Practices]
+Topics Covered:  Topic 1 What Digital Literacy Is
+                 Topic 2 Useful Digital Tools for Students
+                 Topic 3 Safe Internet Practices
 
 
 Project Report Requirements :As per the project brief, the following points are addressed in the main Project_Report file located in the /report folder
-                            The specific design tool utilize
-                            A description of what the design shows
-                            A reflection on a difficult or interesting aspect of the creation process
+                             The specific design tool utilize
+                             A description of what the design shows
+                             A reflection on a difficult or interesting aspect of the creation process
 
 
 # Task 2: Student Digital Portfolio
 Task Overview - As a Student Digital Ambassador, I have set up a foundational digital portfolio across key professional platforms. This ensures visibility to employers, internship coordinators, and the academic community.
 
 Folder Contents 
-Screenshots: Proof of profile setup for at least three platforms (GitHub, LinkedIn, and one other).
+Screenshots: Proof of profile setup for three platforms (GitHub, LinkedIn, Kaggle).
 GitHub Profile: Evidence of a specialized profile README repository containing my name, branch, year, and learning goals.
 LinkedIn Profile: Evidence of a completed Education section including degree, institution, and expected graduation year.
 
@@ -45,10 +45,10 @@ Platforms Explored
 HackerRank: Used to solve introductory programming challenges to build technical logic.
 
 
-            Google Forms: Used to create a 5-question quiz featuring both multiple-choice and short-answer questions for peer engagement.
+Google Forms: Used to create a 5-question quiz featuring both multiple-choice and short-answer questions for peer engagement.
 
 
-            Google Sheets: Utilized for real-time data tracking and response analysis.
+Google Sheets: Utilized for real-time data tracking and response analysis.
 
 
 # Task 4: Professional Email & Etiquette Guide
@@ -85,6 +85,6 @@ Selected Type: UPI Fraud
 
 Content: Description of the crime, step-by-step mechanics, target demographics, and typical consequences.
 
-Prevention Checklist (prevention-checklist.md or .txt): A 'Stay Safe Online' guide featuring 8 specific, actionable tips.
+Prevention Checklist (prevention-checklist.txt): A 'Stay Safe Online' guide featuring 8 specific, actionable tips.
 Includes at least two tips dedicated to financial and UPI safety.
 Includes official reporting channels: National Cyber Crime Portal and Helpline 1930.
