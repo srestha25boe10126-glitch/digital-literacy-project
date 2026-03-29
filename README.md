@@ -1,4 +1,9 @@
 # digital-literacy-project
+# Srestha Gupta  /     25BOE10126    /   Bioengineering
+
+# Project Overview
+The goal of this project is to build a comprehensive digital portfolio that demonstrates proficiency in modern online tools and responsible digital citizenship. The project is divided into five core modules
+
 # Task 1: Digital Literacy Awareness Infographic
 Task Overview - As a Student Digital Ambassador, I have created a one-page visual resource designed to help my peers understand the core concepts of digital literacy and why these skills are essential in a professional and academic environment.
 
@@ -20,7 +25,7 @@ Project Report Requirements :As per the project brief, the following points are 
 
 
 # Task 2: Student Digital Portfolio
-Task Overview - As a Student Digital Ambassador, I have set up a foundational digital portfolio across key professional platforms. This ensures visibility to employers, internship coordinators, and the academic community.
+Task Overview - I have set up a foundational digital portfolio across key professional platforms. This ensures visibility to employers, internship coordinators, and the academic community.
 
 Folder Contents 
 Screenshots: Proof of profile setup for three platforms (GitHub, LinkedIn, Kaggle).
@@ -28,9 +33,13 @@ GitHub Profile: Evidence of a specialized profile README repository containing m
 LinkedIn Profile: Evidence of a completed Education section including degree, institution, and expected graduation year.
 
 Platforms Selected
-GitHub: Used for version control, hosting code repositories, and showcasing technical projects.
-LinkedIn: Used for professional networking, building a digital resume, and finding internships.
-Kaggle: Used for data science competitions ,coding,etc.
+
+GitHub: https://github.com/srestha25boe10126-glitch
+
+LinkedIn: https://www.linkedin.com/in/srestha-gupta-37b0813bb/
+
+Kaggle: https://www.kaggle.com/sresthagupta
+
 
 # Task 3: Coding & Collaboration Platforms
 Task Overview - As a Digital Ambassador, I have explored tools that assist in academic studying, coding practice, and peer collaboration. This task is divided into two parts:technical skill validation and the creation of a collaborative data collection tool
@@ -43,6 +52,7 @@ Digital Literacy Awareness Quiz (Live Link): https://docs.google.com/forms/d/e/1
 
 Platforms Explored
 HackerRank: Used to solve introductory programming challenges to build technical logic.
+            https://www.hackerrank.com/profile/srestha_25boe101
 
 
 Google Forms: Used to create a 5-question quiz featuring both multiple-choice and short-answer questions for peer engagement.
@@ -52,7 +62,7 @@ Google Sheets: Utilized for real-time data tracking and response analysis.
 
 
 # Task 4: Professional Email & Etiquette Guide
-Task Overview - As a Student Digital Ambassador, I have developed resources to guide my peers in professional online interactions. This task focuses on applying high standards of email etiquette and establishing clear boundaries for responsible social media use.
+Task Overview - I have developed resources to guide my peers in professional online interactions. This task focuses on applying high standards of email etiquette and establishing clear boundaries for responsible social media use.
 
 Folder Contents
 Email Drafts: A document containing two professionally structured emails:
@@ -66,7 +76,7 @@ Email 2: An inquiry to an internship coordinator expressing interest in a summer
 
 Social Media Checklist: A file named social-media-checklist.md containing a guide of 5 "Do's" and 5 "Don'ts" for college students.
 
-Email Etiquette Standards
+Email Etiquette Standards :
 Both email drafts in this folder strictly adhere to the following professional criteria:
 Clear Subject Lines: Summarizing the email's purpose effectively.
 Professional Greetings: Using appropriate formal salutations.
